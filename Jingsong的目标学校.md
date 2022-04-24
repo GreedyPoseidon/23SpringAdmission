@@ -18,3 +18,9 @@ MCS Program: Mid-November; Applications open 9/1/2021
 ## TAMU 
 
 ## NTU MSAI
+
+## NEU IS
+
+## NEU CS Align
+
+## NEU CS General
