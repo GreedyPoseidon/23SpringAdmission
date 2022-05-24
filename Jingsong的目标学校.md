@@ -24,3 +24,8 @@ MCS Program: Mid-November; Applications open 9/1/2021
 ## NEU CS Align
 
 ## NEU CS General
+
+## NUS MSEE
+七月底到八月底
+## NUS MSCE
+七月底到八月底
