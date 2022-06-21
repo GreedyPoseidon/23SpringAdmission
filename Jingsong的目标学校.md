@@ -5,7 +5,9 @@ rolling
 
 November 1 for admission to the M.Eng program spring semester
 
-## UIUC MSIM ？
+## UIUC Professional MCS
+
+## UIUC MS Bioinformatics
 
 ## Rice MCS 
 
