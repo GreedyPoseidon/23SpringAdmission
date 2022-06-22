@@ -25,6 +25,8 @@ MCS Program: Mid-November; Applications open 9/1/2021
 
 ## NEU CS General
 
+## NUS CS General Track
+七月1号到八月31号，结果公布11月底
 ## NUS MSEE
 七月底到八月底
 ## NUS MSCE
