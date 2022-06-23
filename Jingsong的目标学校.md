@@ -21,7 +21,7 @@ MCS Program: Mid-November; Applications open 9/1/2021
 
 ## NEU IS
 
-## NEU CS Align
+## NEU CS Align ok
 
 ## NEU CS General
 
