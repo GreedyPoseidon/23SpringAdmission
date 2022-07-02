@@ -20,7 +20,11 @@ MCS Program: Mid-November; Applications open 9/1/2021
 ## Rice EE
 
 ## NTU MSAI
-
+6.1-8.15
+## NTU Data Science
+6.1-8.15
+## NTU Cybersecurity
+6.1-8.15
 ## NEU IS
 
 ## NEU CS Align ok
@@ -28,9 +32,9 @@ MCS Program: Mid-November; Applications open 9/1/2021
 ## NUS CS General Track
 七月1号到八月31号，结果公布11月底
 ## NUS MSEE
-七月底到八月底
+七月底到八月底 7.25-8.31
 ## NUS MSCE
-七月底到八月底
+七月底到八月底 7.25-8.31
 
 ## UT Austin EE Summer2023？
 DICE(COMMMUNICATION、AI) OR SES(SOFTWARE、SYSTEM)
