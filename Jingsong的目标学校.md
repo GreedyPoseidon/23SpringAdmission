@@ -17,13 +17,13 @@ MCS Program: October 1, 2021
 
 MCS Program: Mid-November; Applications open 9/1/2021
 
+## Rice EE
+
 ## NTU MSAI
 
 ## NEU IS
 
 ## NEU CS Align ok
-
-## NEU CS General
 
 ## NUS CS General Track
 七月1号到八月31号，结果公布11月底
@@ -35,15 +35,17 @@ MCS Program: Mid-November; Applications open 9/1/2021
 ## UT Austin EE Summer2023？
 DICE(COMMMUNICATION、AI) OR SES(SOFTWARE、SYSTEM)
 
-## WUSTL CE
+## WUSTL CE ok
 ROLLING DDL 10.1 DECISION NOTIFY BY 10.15
 
-## WUSTL MENG COMPUTER SCIENCE AND ENGINEERING
+## WUSTL MENG COMPUTER SCIENCE AND ENGINEERING ok
 ROLLING DDL 10.1 DECISION NOTIFY BY 10.15
 
 ## WUSTL CS
 ROLLING DDL 10.1 DECISION NOTIFY BY 10.15
 
-## CMU ECE SV
+## CMU ECE SV or Pittsburg
 8.1-9.1
+## CMU SE SV
+
 
